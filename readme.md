@@ -1,2 +1,0 @@
-Leaf Diseases Dataset
-=====================
